@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.DS_Store
+
+# Model artifacts
+**/adapter_model.safetensors
+**/adapter_config.json
+
+# Tokenizer and vocab files
+**/tokenizer.json
+**/tokenizer_config.json
+**/vocab.json
+**/merges.txt
+**/special_tokens_map.json
