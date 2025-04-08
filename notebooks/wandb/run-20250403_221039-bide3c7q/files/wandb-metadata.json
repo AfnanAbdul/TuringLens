@@ -1,0 +1,29 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-04-04T02:10:39.370768Z",
+  "program": "c:\\Users\\Brennan Thompson\\Desktop\\LLM_Project\\TuringLens\\notebooks\\Keras.ipynb",
+  "git": {
+    "remote": "https://github.com/AfnanAbdul/TuringLens.git",
+    "commit": "4b9bc2cb25b5c18678a059454233807bebced863"
+  },
+  "email": "thompsonbrennan66@gmail.com",
+  "root": "c:\\Users\\Brennan Thompson\\Desktop\\LLM_Project\\TuringLens\\notebooks",
+  "host": "COUES106",
+  "executable": "c:\\Users\\Brennan Thompson\\miniconda3\\envs\\myenv\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "511201767424",
+      "used": "167112806400"
+    }
+  },
+  "memory": {
+    "total": "17046093824"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
